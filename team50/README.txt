@@ -22,36 +22,7 @@ Other
 	NormalOperation.pdf
 	StateMachineDiagram.pdf
 	UML_Requirement_Traceability_Matrix___team50.pdf
-	Demo Video
-	Winter 2024 COMP 3004 Group Project.pdf
 
-Jackson Scott
-	Wrote use cases
-	Designed uml classes and drew diagram
-	Coded part of mainwindow
-	Wrote design explanation
-
-Khun Thu Rein
-	Designed inital GUI
-	Drew UML sequence diagrams 
-	Drew UML state machine diagram
-
-Justin Calverley
-	Lead programmer connected and improved the classes we all wrote seprately
-	Coded device class
-	Updated GUI design
-
-Tawab Amedi
-	Coded records class
-	Filled in traceability matrix
-	Recorded demo video
-
-Instructions to build and run
-	download group50.zip
-	unzip
-	open in qt creator
-	hit build 
-	hit run
 
 Instructions to operate
 	power button
